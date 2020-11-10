@@ -6,6 +6,8 @@ ex:I2c_Read, I2c_write, Image Capture From CMOS sensor, GPIO_Read, GPIO_Write...
 
 Environment: Python 3.8 (64bit)
 
+Details:[requirements.txt](https://github.com/macuteegg/PyQt_RunWithSOI_PlatformManagerLibDLL/blob/main/requirements.txt)
+
 Test UI:
 
 ![image](https://github.com/macuteegg/PyQt_RunWithSOI_PlatformManagerLibDLL/blob/main/doc/UI.jpg)
